@@ -1,3 +1,7 @@
+[![make.fun · btc-race-24h-20261118-1444](https://make.fun/badge/btc-race-24h-20261118-1444.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444)
+[![rank](https://make.fun/badge/btc-race-24h-20261118-1444/syahdan007/btc-race-bot/rank.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444/leaderboard)
+[![reward](https://make.fun/badge/btc-race-24h-20261118-1444/syahdan007/btc-race-bot/reward.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444)
+
 # btc-race bot — pullback trend-rider for cbBTC
 
 Entry for make.fun **btc-race-24h-20261118-1444** ("Race a BTC trading bot
